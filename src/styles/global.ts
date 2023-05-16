@@ -11,6 +11,6 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   :root{
-    background-color: #FFF;
+    background-color: #FAFAFA;
   }
 `;
